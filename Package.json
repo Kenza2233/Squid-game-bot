@@ -1,0 +1,21 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "Bot Discord untuk Squid Game dan leaderboard",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "web": "node server.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.0.0",
+    "express": "^4.18.2",
+    "canvas": "^2.11.2"
+  },
+  "engines": {
+    "node": ">=16.9.0"
+  },
+  "author": "Nama Anda",
+  "license": "ISC"
+}
