@@ -20,4 +20,4 @@ client.on('messageCreate', (message) => {
 });
 
 // Log masuk menggunakan token
-client.login(process.env.TOKEN_DISCORD_ANDA);
+client.login(process.env.MTMyMjU3OTgzNTk0Nzg0MzYxNQ.G4UB9x.ZS8oPbf94_z4LfRgSD01eRvcx9M3pZ7_E8xnLI);
